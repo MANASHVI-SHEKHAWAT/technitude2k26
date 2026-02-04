@@ -169,7 +169,7 @@ return (
                 onClick={() => setPage("home")}
                 className="text-pink-500 font-bold mb-6"
               >
-                {"<<"} Back
+                {"<<"} 
               </button>
 
               <h2 className="text-5xl font-bold mb-12">
