@@ -143,14 +143,13 @@ return (
                 >
                   Explore Events
                 </button>
-                <a
-                  href="/rulebook.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="px-10 py-4 bg-white/5 border border-white/10 rounded-xl font-bold hover:bg-white/10 transition"
-                >
-                  Rulebook
-                </a>
+<a
+  href="/rulebook.pdf"
+  download="Technitude_2K26_Rulebook.pdf"
+  className="px-10 py-4 bg-white/5 border border-white/10 rounded-xl font-bold hover:bg-white/10 transition"
+>
+  Download Rulebook
+</a>
               </div>
             </div>
           </motion.div>
