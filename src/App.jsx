@@ -93,7 +93,7 @@ function App() {
   { id: 4, name: "Data Dice", category: "Campus Quest", link: "https://docs.google.com/forms/d/e/1FAIpQLSdwGYuGqLZtFTXOIgT-uNOV-YB2tFBjhTiVAr6oEEdXqbVbgA/viewform?usp=header" },
   { id: 5, name: "Tech Tales", category: "Short Film", link: "https://forms.gle/TceHLxRvDEdvxQF3A" },
   { id: 6, name: "Cipher Seekers", category: "Treasure Hunt", link: "https://docs.google.com/forms/d/e/1FAIpQLScqMP3znfsWFZmxMUY5Y0F9r4vmHY32V84DryZXVx7B7mIBaA/viewform?usp=header" },
-  { id: 7, name: "AlgoRhythm", category: "Dance", link: "https://forms.gle/CnbYq81Ho9wkFDC7A" },
+  { id: 7, name: "AlgoRhythm", category: "Dance", link: "https://forms.gle/b3E6uX9YQAaWPD17A" },
   { id: 8, name: "Bitrate Blitz", category: "LAN Gaming", link: "https://forms.gle/FU9wx22rJTYkcXsA7" },
   { id: 9, name: "Bit Brush", category: "Face Painting", link: "https://docs.google.com/forms/d/e/1FAIpQLSckAl52tmlB6jHf7DTv2bfoPHYr7Wkdc7nLlxFrx7frqQXphA/viewform?usp=header" },
   { id: 10, name: "Code Canvas", category: "Poster Making", link: "https://docs.google.com/forms/d/e/1FAIpQLSc8QBhdmG7sE6dhcgsIcQjCHn2_GZgZ9FPa6N3se9oa-4Dy3Q/viewform?usp=header" },
